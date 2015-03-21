@@ -8,6 +8,8 @@ public abstract class Account {
     private String customerName;
     private double balance;
 
+    //There's a change here
+
     public Account(String number, String customerName)
     {
         setNumber(number);

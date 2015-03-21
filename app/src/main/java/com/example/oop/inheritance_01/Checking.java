@@ -4,7 +4,7 @@ package com.example.oop.inheritance_01;
  * Created by OOP on 2/26/2015.
  */
 public abstract class Checking extends Account{
-
+    // Another change
     public Checking(String number, String customerName, double serviceCharge)
     {
         super(number, customerName);
